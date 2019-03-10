@@ -9,3 +9,5 @@ function Player(classType, health, mana, strength, agility, speed) {
 	this.speed = speed;
 }
 
+//I like patatoes
+
